@@ -38,6 +38,9 @@
 
 # Swift Package Manager build directory
 /.build
+bazel-*
+user.bazelrc
+
 
 venv
 
